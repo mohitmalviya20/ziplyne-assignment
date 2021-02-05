@@ -1,0 +1,19 @@
+.player-main{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+.player-graphic{
+    background-color: #ffffff;
+    padding:2rem;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    box-shadow: 3px -1px 5px #d3d3d3;
+    position: absolute;
+    bottom:0;
+    left: 25%;
+    overflow: hidden;
+    z-index:100;
+}
